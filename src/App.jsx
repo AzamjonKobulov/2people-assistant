@@ -1,6 +1,6 @@
 import Footer from "./components/layout/footer";
 import Navbar from "./components/layout/navbar";
-import AIAssistants from "./components/sections/ai-assistant";
+import AIAssistants from "./components/sections/ai-assistants";
 import Contact from "./components/sections/contact";
 import ForYourBussines from "./components/sections/for-your-bussines";
 import Hero from "./components/sections/hero";
